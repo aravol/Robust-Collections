@@ -44,8 +44,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Robust\Properties\AssemblyInfo.cs" />
-    <Compile Include="Robust\RobustList.T.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RobustList.T.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
